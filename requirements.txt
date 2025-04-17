@@ -1,0 +1,13 @@
+streamlit
+transformers
+sumy
+nltk
+torch
+docx2txt
+PyMuPDF
+python-docx
+PyPDF2
+scikit-learn
+fpdf
+spacy
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz

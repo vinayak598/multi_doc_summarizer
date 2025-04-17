@@ -1,0 +1,11 @@
+LICENSE
+
+Copyright (c) 2025 Josyula Venkata Ramachandra Vinayak
+
+All rights reserved.
+
+You may not use, copy, modify, merge, publish, distribute, sublicense, or sell copies of this software, nor may you permit others to do so, without explicit written permission from the author.
+
+Any unauthorized use, copying, distribution, or modification of this software will be considered a violation of copyright law and may result in legal actions. This may include claims for damages, injunctions, and penalties as permitted by applicable copyright laws and intellectual property regulations.
+
+This software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author or copyright holder be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
